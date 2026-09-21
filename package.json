@@ -1,0 +1,21 @@
+{
+  "name": "star-furniture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Star Furniture — Premium Teak Wood Furniture & Manufacturing Division",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site ready for deployment'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "furniture",
+    "teak-wood",
+    "beero",
+    "sofa",
+    "cot",
+    "bhuvanagiri"
+  ],
+  "author": "Star Furniture",
+  "license": "UNLICENSED"
+}
